@@ -1,4 +1,6 @@
 ### Hi there 👋
+Python Geek, interested in Data Analytics and I am working in that path to crack a Data Analyst Role.
+I really love exploring various domains and amuse myself with what I learn.
 
 <!--
 **Parker2127/Parker2127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
