@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I'm Shrikar Kaduluri, I am passionate about Data and MERN Stack, stay tuned for updates on my profile.
+I'm Shrikar Kaduluri, I have some interesting updates to share soon, I am looking forward to the journey, and will update my profile with notable achievements, excited !!
 
 
