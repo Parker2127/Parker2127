@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Shrikar Kaduluri!
+### Hi there 👋 I'm Shrikar Kaduluri!,  aka **Parker2127**! 🕷️🕸️
 
 Ready for a quick tour of my coding universe? 🚀 I'm a **Software Engineer in the making**, fueled by an insatiable passion for Computer Science that keeps me glued to my screen (in a good way, I promise! 😉). With both a **Bachelor's and a Master's degree in Computer Science** already under my belt, I've laid a solid foundation for this exciting journey.
 
