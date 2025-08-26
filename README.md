@@ -117,7 +117,3 @@ Building intelligent applications that connect people, data, and the cloud.
 </p>
 <hr style="border-color: #D9B8B0;">
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-<img src="https://github-readme-stats.vercel.app/api?username=Parker2127&show_icons=true&theme=default&count_private=true&hide_rank=true" alt="Shrikar's GitHub stats" style="flex-grow: 1; max-width: 450px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parker2127&layout=compact&theme=default" alt="Top Languages" style="flex-grow: 1; max-width: 450px;">
-</div>
