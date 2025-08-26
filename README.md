@@ -6,27 +6,6 @@ Building intelligent applications that connect people, data, and the cloud.
 </p>
 </div>
 
-🐾 My Projects & Pawsitive Experiences
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
-<div style="background-color: #FFFFFF; border: 1px solid #D9B8B0; border-radius: 8px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-<h3 style="color: #F1887B; margin-top: 0;">AMIGO</h3>
-<p style="color: #8C6A64;">AI-powered mental health chatbot with GPT-4 and crisis intervention.</p>
-</div>
-<div style="background-color: #FFFFFF; border: 1px solid #D9B8B0; border-radius: 8px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-<h3 style="color: #F1887B; margin-top: 0;">VERTEX</h3>
-<p style="color: #8C6A64;">Enterprise FinTech compliance dashboard using React 19 and TypeScript.</p>
-</div>
-<div style="background-color: #FFFFFF; border: 1px solid #D9B8B0; border-radius: 8px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-<h3 style="color: #F1887B; margin-top: 0;">KEEPER</h3>
-<p style="color: #8C6A64;">Multi-cloud security monitoring platform for AWS/Azure environments.</p>
-</div>
-<div style="background-color: #FFFFFF; border: 1px solid #D9B8B0; border-radius: 8px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-<h3 style="color: #F1887B; margin-top: 0;">IGLOO</h3>
-<p style="color: #8C6A64;">Advanced property management system with PostgreSQL 16+.</p>
-</div>
-</div>
-<hr style="border-color: #D9B8B0;">
-
 💻 My Purr-fect Tech Stack
 <div align="center">
 <p style="color: #8C6A64; font-style: italic;">A snapshot of the tools I use.</p>
