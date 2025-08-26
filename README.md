@@ -6,9 +6,9 @@ Building intelligent applications that connect people, data, and the cloud.
 </p>
 </div>
 
-💻 My Purr-fect Tech Stack
+
 <div align="center">
-<p style="color: #8C6A64; font-style: italic;">A snapshot of the tools I use.</p>
+<p style="color: #8C6A64; font-style: italic;">💻 My Purr-fect Tech Stack</p>
 <h3>AI/ML</h3>
 <p>
 <img src="https://img.shields.io/badge/GPT--4-007ACC?style=flat&logo=openai&logoColor=white" alt="GPT-4 Badge">
