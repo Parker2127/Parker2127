@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #F8F4EC; padding: 20px; border-radius: 12px; border: 1px solid #D9B8B0;">
 <img src="https://avatars.githubusercontent.com/u/74619725?v=4" alt="Shrikar Kaduluri Profile Picture" width="150" style="border-radius: 50%; border: 4px solid #F1887B;">
-<h1 style="color: #4A4A4A; margin-top: 10px;">Shrikar Kaduluri.</h1>
+<h1 style="color: #4A4A4A; margin-top: 10px;"> Hi there, I'm Shrikar Kaduluri 👋</h1>
 <p style="color: #8C6A64;">
 Building intelligent applications that connect people, data, and the cloud.
 </p>
